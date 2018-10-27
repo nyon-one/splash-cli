@@ -9,6 +9,7 @@
   "description": "Get beautiful wallpapers from unsplash.",
   "bin": {
     "splash": "build/bin/index.js"
+    "wall": "build/bin/index.js"
   },
   "publishConfig": {
     "access": "public"
